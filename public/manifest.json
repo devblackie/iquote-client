@@ -1,0 +1,21 @@
+{
+  "name": "iMediShield",
+  "short_name": "iMediShield",
+  "description": "Your one-stop platform for medical insurance solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#f3f4f6",
+  "icons": [
+    {
+      "src": "/icons/android-chrome.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
